@@ -1,0 +1,13 @@
+Parameter	Value
+M1_M2_min	100
+minM0	2e9
+minM4	7e8
+within_run_RT	0.0005
+between_run_RT	1
+deut_labs	5
+FSR_max	10
+FSR_diff	1000
+FSR_low	0.05
+baseline_vs_theory_top	0.03
+baseline_vs_theory_bottom	0.05
+FSR_fit	60

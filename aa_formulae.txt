@@ -1,0 +1,21 @@
+Amino_acid	Three_letter	Single_letter	C	H	N	O	S
+Alanine 	Ala 	A 	3	5	1	1	0
+Arginine 	Arg 	R 	6	12	4	1	0
+Asparagine 	Asn 	N 	4	6	2	2	0
+Aspartic acid 	Asp 	D 	4	5	1	3	0
+Cysteine 	Cys 	C 	5	8	2	2	1
+Glutamine 	Gln 	Q 	5	8	2	2	0
+Glutamic acid 	Glu 	E 	5	7	1	3	0
+Glycine 	Gly 	G 	2	3	1	1	0
+Histidine 	His 	H 	6	7	3	1	0
+Isoleucine 	Ile 	I 	6	11	1	1	0
+Leucine 	Leu 	L 	6	11	1	1	0
+Lysine 	Lys 	K 	6	12	2	1	0
+Methionine 	Met 	M 	5	9	1	1	1
+Phenylalanine 	Phe 	F 	9	9	1	1	0
+Proline 	Pro 	P 	5	7	1	1	0
+Serine 	Ser 	S 	3	5	1	2	0
+Threonine 	Thr 	T 	4	7	1	2	0
+Tryptophan 	Trp 	W 	11	10	2	1	0
+Tyrosine 	Tyr 	Y 	9	9	1	2	0
+Valine 	Val 	V 	5	9	1	1	0

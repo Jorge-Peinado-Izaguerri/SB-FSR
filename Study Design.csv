@@ -1,0 +1,81 @@
+Species,Subject,Phase,Date,Time,Dose_g,Weight_g,Treatment,Sequence,Interval (h)
+chicken,Experiment1 Control1,1,,,,,Control A,0,0
+chicken,Experiment1 Control1,1,,,,,Control A,1,23.87
+chicken,Experiment1 Control1,1,,,,,Control A,2,47.93
+chicken,Experiment1 Control1,1,,,,,Control A,3,95.95
+chicken,Experiment1 Control2,1,,,,,Control A,0,0
+chicken,Experiment1 Control2,1,,,,,Control A,1,23.85
+chicken,Experiment1 Control2,1,,,,,Control A,2,47.9
+chicken,Experiment1 Control2,1,,,,,Control A,3,95.88
+chicken,Experiment1 Control3,1,,,,,Control A,0,0
+chicken,Experiment1 Control3,1,,,,,Control A,1,23.9
+chicken,Experiment1 Control3,1,,,,,Control A,2,47.93
+chicken,Experiment1 Control3,1,,,,,Control A,3,95.85
+chicken,Experiment1 Control4,1,,,,,Control A,0,0
+chicken,Experiment1 Control4,1,,,,,Control A,1,23.95
+chicken,Experiment1 Control4,1,,,,,Control A,2,47.97
+chicken,Experiment1 Control4,1,,,,,Control A,3,95.9
+chicken,Experiment1 LPS1,1,,,,,LPS,0,0
+chicken,Experiment1 LPS1,1,,,,,LPS,1,24.02
+chicken,Experiment1 LPS1,1,,,,,LPS,2,47.93
+chicken,Experiment1 LPS1,1,,,,,LPS,3,95.92
+chicken,Experiment1 LPS2,1,,,,,LPS,0,0
+chicken,Experiment1 LPS2,1,,,,,LPS,1,23.85
+chicken,Experiment1 LPS2,1,,,,,LPS,2,47.9
+chicken,Experiment1 LPS2,1,,,,,LPS,3,95.88
+chicken,Experiment1 LPS3,1,,,,,LPS,0,0
+chicken,Experiment1 LPS3,1,,,,,LPS,1,23.97
+chicken,Experiment1 LPS3,1,,,,,LPS,2,47.95
+chicken,Experiment1 LPS3,1,,,,,LPS,3,95.88
+chicken,Experiment1 LPS4,1,,,,,LPS,0,0
+chicken,Experiment1 LPS4,1,,,,,LPS,1,23.92
+chicken,Experiment1 LPS4,1,,,,,LPS,2,47.93
+chicken,Experiment1 LPS4,1,,,,,LPS,3,96
+chicken,Experiment2 Control1,1,,,,,Control B,0,0
+chicken,Experiment2 Control1,1,,,,,Control B,1,23.92
+chicken,Experiment2 Control1,1,,,,,Control B,2,47.83
+chicken,Experiment2 Control1,1,,,,,Control B,3,95.82
+chicken,Experiment2 Control2,1,,,,,Control B,0,0
+chicken,Experiment2 Control2,1,,,,,Control B,1,23.88
+chicken,Experiment2 Control2,1,,,,,Control B,2,47.83
+chicken,Experiment2 Control2,1,,,,,Control B,3,95.88
+chicken,Experiment2 Control3,1,,,,,Control B,0,0
+chicken,Experiment2 Control3,1,,,,,Control B,1,23.85
+chicken,Experiment2 Control3,1,,,,,Control B,2,47.92
+chicken,Experiment2 Control3,1,,,,,Control B,3,95.9
+chicken,Experiment2 Control4,1,,,,,Control B,0,0
+chicken,Experiment2 Control4,1,,,,,Control B,1,23.9
+chicken,Experiment2 Control4,1,,,,,Control B,2,47.87
+chicken,Experiment2 Control4,1,,,,,Control B,3,95.92
+chicken,Experiment2 Citrus1,1,,,,,Citrus,0,0
+chicken,Experiment2 Citrus1,1,,,,,Citrus,1,23.83
+chicken,Experiment2 Citrus1,1,,,,,Citrus,2,48.82
+chicken,Experiment2 Citrus1,1,,,,,Citrus,3,95.92
+chicken,Experiment2 Citrus2,1,,,,,Citrus,0,0
+chicken,Experiment2 Citrus2,1,,,,,Citrus,1,23.88
+chicken,Experiment2 Citrus2,1,,,,,Citrus,2,47.8
+chicken,Experiment2 Citrus2,1,,,,,Citrus,3,95.83
+chicken,Experiment2 Citrus3,1,,,,,Citrus,0,0
+chicken,Experiment2 Citrus3,1,,,,,Citrus,1,23.88
+chicken,Experiment2 Citrus3,1,,,,,Citrus,2,47.9
+chicken,Experiment2 Citrus3,1,,,,,Citrus,3,95.93
+chicken,Experiment2 Citrus4,1,,,,,Citrus,0,0
+chicken,Experiment2 Citrus4,1,,,,,Citrus,1,23.93333333
+chicken,Experiment2 Citrus4,1,,,,,Citrus,2,47.93333333
+chicken,Experiment2 Citrus4,1,,,,,Citrus,3,95.93333333
+chicken,Experiment2 Cucumber1,1,,,,,Cucumber,0,0
+chicken,Experiment2 Cucumber1,1,,,,,Cucumber,1,23.92
+chicken,Experiment2 Cucumber1,1,,,,,Cucumber,2,47.88
+chicken,Experiment2 Cucumber1,1,,,,,Cucumber,3,95.92
+chicken,Experiment2 Cucumber2,1,,,,,Cucumber,0,0
+chicken,Experiment2 Cucumber2,1,,,,,Cucumber,1,23.92
+chicken,Experiment2 Cucumber2,1,,,,,Cucumber,2,47.82
+chicken,Experiment2 Cucumber2,1,,,,,Cucumber,3,95.85
+chicken,Experiment2 Cucumber3,1,,,,,Cucumber,0,0
+chicken,Experiment2 Cucumber3,1,,,,,Cucumber,1,23.91666667
+chicken,Experiment2 Cucumber3,1,,,,,Cucumber,2,47.91666667
+chicken,Experiment2 Cucumber3,1,,,,,Cucumber,3,95.9
+chicken,Experiment2 Cucumber4,1,,,,,Cucumber,0,0
+chicken,Experiment2 Cucumber4,1,,,,,Cucumber,1,23.88
+chicken,Experiment2 Cucumber4,1,,,,,Cucumber,2,47.85
+chicken,Experiment2 Cucumber4,1,,,,,Cucumber,3,95.95
