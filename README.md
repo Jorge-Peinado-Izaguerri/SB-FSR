@@ -1,7 +1,7 @@
 # SB-FSR
 The Single Bolus Fractional Synthesis Rate (SB-FSR) R script has been designed for the calculation of broiler chicken individual protein fractional synthesis rates from isotopically labelled proteomics data following a single 2H2O bolus dose.
 
-Two different versions of the script are available, SB-FSR 4t makes use of proteomics data collected at 4 different timepoints (baseline + 3 labelled samples) for the calculation of protein FSR. SB-FSR 5t makes use of proteomics data collected at 5 different timepoints (baseline + 4 labelled samples) for the calculation of protein FSR.
+Two different versions of the script are available, SB-FSR 4t (main branch) makes use of proteomics data collected at 4 different timepoints (baseline + 3 labelled samples) for the calculation of protein FSR. SB-FSR 5t (SB-FSR 5t branch) makes use of proteomics data collected at 5 different timepoints (baseline + 4 labelled samples) for the calculation of protein FSR.
 
 SB-FSR code is divided into three different core modules that can be run independently: A) Proteomics data filtering and FSR calculation; B) Post FSR calculation data filtering and C) MPE and FSR plotting. 
 
